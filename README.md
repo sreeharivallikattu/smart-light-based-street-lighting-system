@@ -124,8 +124,6 @@ Additional protection:
 
 ## Demonstration
 
-Add project video here:
-
 ```md
 Project Demo Video: https://youtube.com/shorts/8AB1jKYtVkU?feature=share
 ```
