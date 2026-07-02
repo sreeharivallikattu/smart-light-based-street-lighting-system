@@ -133,5 +133,3 @@ Project Demo Video: https://youtube.com/shorts/8AB1jKYtVkU?feature=share
 
 Sreehari Vallikattu
 
-Engineer | Embedded Systems | Arduino Projects
-
