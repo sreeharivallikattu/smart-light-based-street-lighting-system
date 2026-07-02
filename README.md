@@ -127,10 +127,9 @@ Additional protection:
 Add project video here:
 
 ```md
-[Project Demo Video](your-video-link)
+Project Demo Video: https://youtube.com/shorts/8AB1jKYtVkU?feature=share
 ```
 
----
 
 ## Author
 
